@@ -1,0 +1,22 @@
+body {
+    background-color: honeydew;
+}
+h1 {
+    color: black;
+}
+p {
+    color: blue;
+}
+#greeting {
+    color: blue;
+}
+#skills {
+    color: darkred;
+}
+/*
+#bio {
+    background-image: url(/home/ebeaber/repos/git_test/links_images/commodore-528139_1920.jpg);
+    max-width: 100%;
+    height: auto;
+}
+*/
